@@ -26,7 +26,7 @@ $ mongod --version
 2. Open your terminal and run the following -
 
 ```cmd
-$ git clone https://github.com/Zizipho/Chat-Portal/
+$ git clone https://github.com/Khuthalang34Chat-Portal/
 $ cd Chat-Portal
 $ npm install
 $ node server.js
